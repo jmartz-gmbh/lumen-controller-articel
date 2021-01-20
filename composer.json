@@ -1,5 +1,5 @@
 {
-    "name": "jonathan-martz/lumen-controller-articel",
+    "name": "jmartz-gmbh/lumen-controller-articel",
     "description": "Php Lumen Articel Controller",
     "require": {
         "php": "^7.3|^7.4",
